@@ -1,1 +1,2 @@
 Linux commands i am learning
+ls - list file and folders

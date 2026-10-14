@@ -1,1 +1,3 @@
 GitHub practice
+I am learning GitHub.
+I can create branches, commit changes, and merge pull requests.
