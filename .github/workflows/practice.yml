@@ -1,0 +1,14 @@
+name: DevOps Practice
+
+on: [push, pull_request]
+
+jobs:
+  practice:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Display success message
+        run: echo "GitHub Actions is working successfully!"
